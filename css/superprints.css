@@ -1,0 +1,57 @@
+body {
+  font-size: 500%;
+  text-align: center;
+  padding: 2em;
+}
+
+@font-face {
+  font-family: "superprints";
+  src: url("../fonts/superprints.eot");
+  src: url("../fonts/superprints.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/superprints.woff") format("woff"),
+  url("../fonts/superprints.ttf") format("truetype"),
+  url("../fonts/superprints.svg#superprints") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "superprints";
+    src: url("../fonts/superprints.svg#superprints") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.fa-superprints:before {
+  display: inline-block;
+  font-family: "superprints";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.fa-superprints:before {
+  content: "\f100";
+}
+
+.fa-superprints--purple {
+  color: #ae9ccb;
+}
+
+.fa-superprints--green {
+  color: #65c8ca;
+}
+
+.fa-superprints--peach {
+  color: #eac099;
+}
