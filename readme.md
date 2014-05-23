@@ -7,3 +7,5 @@ Usage:
 ![](https://rawgit.com/urre/Font-Awesome-Superprints-Icon/master/superprints.svg)
 
 ## [Demo](http://urre.github.io/Font-Awesome-Superprints-Icon/)
+
+Simple demo with hot colors!
