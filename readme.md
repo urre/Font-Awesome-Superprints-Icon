@@ -6,6 +6,4 @@ Usage:
 
 ![](https://rawgit.com/urre/Font-Awesome-Superprints-Icon/master/superprints.svg)
 
-## Demo
-
-[Link](http://urre.github.io/Font-Awesome-Superprints-Icon/)
+## [Demo](http://urre.github.io/Font-Awesome-Superprints-Icon/)
