@@ -4,6 +4,12 @@ body {
   padding: 2em;
 }
 
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+  body {
+    padding: .4em 1em .2em 1em;
+  }
+}
+
 @font-face {
   font-family: "superprints";
   src: url("../fonts/superprints.eot");

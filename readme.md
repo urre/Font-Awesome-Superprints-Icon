@@ -8,4 +8,4 @@ Usage:
 
 ## [Demo](http://urre.github.io/Font-Awesome-Superprints-Icon/)
 
-Simple demo with hot colors!
+Try out this simple demo
