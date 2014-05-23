@@ -4,4 +4,4 @@ Usage:
 
 	<i class="fa fa-superprints"></i>
 
-![](https://raw.github.com/urre/Font-Awesome-Superprints-Icon/master/superprints.svg)
+![](https://rawgit.com/urre/Font-Awesome-Superprints-Icon/master/superprints.svg)
